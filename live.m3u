@@ -2,7 +2,6 @@
 #EXTINF:-1,MKTV-2
 http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/99.ts
 
-
 #EXTINF:-1,TV2
 http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/91.ts
 
@@ -42,3 +41,5 @@ http://91.214.82.201:8800/1
 #EXTINF:-1,Nick
 http://91.214.82.201:8800/125
 
+#EXTINF:-1,Fashion HD
+http://91.214.82.201:8800/145
