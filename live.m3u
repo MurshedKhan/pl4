@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1,MKTV-2
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/99.ts
+
+
+#EXTINF:-1,TV2
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/91.ts
+
+#EXTINF:-1,ERA TV
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/93.ts
+
+#EXTINF:-1,AKSION
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/32.ts
+
+#EXTINF:-1,EuroSports 1
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/137.ts
+
+#EXTINF:-1,EuroSports 2
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/138.ts
+
+#EXTINF:-1,Tivibu Sports 2
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/83.ts
+
+#EXTINF:-1,RTSH Sports
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/73.ts
+
+#EXTINF:-1,Alb Hindi
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/42.ts
+
+#EXTINF:-1,Alb Movie HD
+http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/43.ts
+
+#EXTINF:-1,Sony HD
+http://91.214.82.201:8800/147
+
+#EXTINF:-1,Sony SciFi
+http://91.214.82.201:8800/149
+
+#EXTINF:-1,MTV
+http://91.214.82.201:8800/1
+
+#EXTINF:-1,Nick
+http://91.214.82.201:8800/125
+
