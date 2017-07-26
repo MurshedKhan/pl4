@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,MKTV-2
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/99.ts
-
-#EXTINF:-1,TV2
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/91.ts
-
-#EXTINF:-1,ERA TV
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/93.ts
 
 #EXTINF:-1,AKSION
 http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/32.ts
