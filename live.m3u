@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,AKSION
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/32.ts
-
-#EXTINF:-1,EuroSports 1
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/137.ts
-
-#EXTINF:-1, SkySports 4 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/731.ts
-
-#EXTINF:-1,EuroSports 2
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/138.ts
-
-#EXTINF:-1,Tivibu Sports 2
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/83.ts
-
-#EXTINF:-1,RTSH Sports
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/73.ts
-
-#EXTINF:-1,Alb Hindi
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/42.ts
-
-#EXTINF:-1,Alb Movie HD
-http://nextiptv.ddns.net:2580/live/6085F2CBdb/6085F2CBdb/43.ts
-
 #EXTINF:-1,Sony HD
 http://91.214.82.201:8800/147
 
